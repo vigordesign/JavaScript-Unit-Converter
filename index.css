@@ -39,6 +39,7 @@ main {
     background: none;
     color: #fff;
     margin-top: 15px;
+    padding: 0;
 }
 
 #input-btn {
